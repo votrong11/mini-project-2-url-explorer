@@ -1,14 +1,13 @@
 # Mini-Project 2: URL Explorer Tĩnh
 
-Dự án này xây dựng một giao diện trang web học trực tuyến tĩnh nhằm minh họa cấu trúc phân vùng giao diện bằng HTML/CSS, đồng thời giải thích các khái niệm cốt lõi về mạng Internet.
+Trang web tĩnh mô phỏng hệ thống học trực tuyến CNTT, kết hợp giải thích cấu trúc hạ tầng mạng cơ bản phục vụ cho môn học.
 
-## 🧠 Các khái niệm cơ bản về Web
+## 📁 Cấu trúc thư mục dự án
+- `index.html`: Trang cấu trúc chính chứa nội dung và phân vùng.
+- `css/style.css`: Quy định giao diện hai cột, màu sắc menu.
+- `README.md`: Hướng dẫn và mô tả dự án.
 
-* **Domain (Tên miền):** Là địa chỉ chữ dễ nhớ của một trang web thay cho dãy địa chỉ IP phức tạp (Ví dụ: `github.com`).
-* **Hosting:** Là không gian lưu trữ trực tuyến trên máy chủ, nơi chứa toàn bộ mã nguồn để website có thể chạy trên mạng.
-* **URL (Uniform Resource Locator):** Là đường dẫn định vị tài nguyên toàn vẹn trên Internet, dẫn người dùng đến chính xác một file hoặc một trang cụ thể.
-
-## 🛠️ Công nghệ sử dụng
-* HTML5 (Cấu trúc phân vùng bằng `id` và `class`).
-* CSS3 (Bố cục `Flexbox` để chia cột đứng và tô màu).
-* GitHub Pages để chạy trang web trực tuyến.
+## 🧠 Tóm tắt lý thuyết trong dự án
+1. **Domain:** Tên miền thay thế địa chỉ IP.
+2. **Hosting:** Nơi lưu trữ tài nguyên mã nguồn công khai.
+3. **URL:** Chuỗi định vị tài nguyên trên môi trường số toàn cầu.
