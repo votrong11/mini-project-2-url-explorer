@@ -1,17 +1,6 @@
-# 1. Khởi tạo Git cho thư mục này
 git init
-
-# 2. Chọn tất cả các file vừa tạo
 git add .
-
-# 3. Gom code lại và đặt tên phiên bản
-git commit -m "Lam lai tu dau mini project 2 hoan chỉnh"
-
-# 4. Đổi tên nhánh mặc định thành main
+git commit -m "Hoan thanh Mini-project 2 dung giao dien mau"
 git branch -M main
-
-# 5. LIÊN KẾT ĐẾN REPO MỚI TINH (Hãy thay link dưới bằng link thật trên GitHub của bạn)
-git remote add origin https://github.com/tai-khoan-cua-ban/mini-project-2-url-explorer.git
-
-# 6. Đẩy thẳng code lên mạng
+git remote add origin https://github.com/tai-khoan-cua-ban/ten-repo-moi-tinh.git
 git push -u origin main
